@@ -1,5 +1,5 @@
 body{
-    margin: 100px 100px;
+    margin: 0px 300px 0px 300px;
     background-color: rgb(178, 194, 224) ;
 }
 .analyr{
@@ -10,7 +10,7 @@ width: 40%;
 .chiquinho{width: 40%;}
 .volei{
     padding-left: 23%;
-    font-size: 600%;
+    font-size: 500%;
     color: black(0, 0, 0, 0.726);
 }
 .fim{width: 30%;
