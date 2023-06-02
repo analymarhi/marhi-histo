@@ -13,8 +13,10 @@ width: 40%;
     font-size: 500%;
     color: black(0, 0, 0, 0.726);
 }
-.fim{width: 30%;
+.fim{margin: 0px 200px 0px 200px;
+    width: 20%;
     padding-left: 23%;
 }
+.nd{font-size: 200%;}
 
 
